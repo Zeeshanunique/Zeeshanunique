@@ -22,7 +22,7 @@
 
 ---
 
-<details>
+<details open ="">
 <summary>
   ✨ Tech stack currently using:
 </summary>
