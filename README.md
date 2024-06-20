@@ -52,7 +52,7 @@ I am an enthusiastic **AI Engineer** with a passion for developing innovative ar
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshanuniqe&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
 
