@@ -3,7 +3,7 @@
   <img src="https://your-image-link.com/banner.png" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Zeeshan ALi 👋</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> |
   <a href="https://twitter.com/your-profile">Twitter</a> |
