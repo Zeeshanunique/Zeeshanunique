@@ -1,7 +1,4 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://github.com/Zeeshanunique/Zeeshanunique/blob/main/1711262838171.jpeg" alt="Banner" width="10%"/>
-</p>
 
 <h1 align="center">Hi, I'm Zeeshan ALi 👋</h1>
 <p align="center">
