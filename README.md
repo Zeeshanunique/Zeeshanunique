@@ -47,7 +47,7 @@
 </details>
 <br>
 
-<details>
+<details open="">
 <summary>
   🌱 Looking forward to learn:
 </summary>
