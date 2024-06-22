@@ -1,20 +1,24 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Your Name]</h1>
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeeshan Ali</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+professional;AI+Engineer+|%20ML+Expert;Passionate+about+innovation&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
   <em>
-    As a computer science professional specializing in artificial intelligence and machine learning, I am passionate about leveraging technology to create innovative solutions. My expertise in Generative AI and hands-on experience in various AI projects enable me to tackle complex challenges with creativity and determination.
-    I am a collaborative spirit who thrives in environments where diverse perspectives converge. With my technical acumen and adaptability, I can quickly learn new concepts and contribute meaningfully to any team. I am eager to contribute my skills and passion to projects that have the potential to transform industries and shape the future of AI.
-    I have a diverse portfolio that includes projects in App development, Metaverse, AR/VR, Design, and Development.
-  </em>
+    This is me <b>Zeeshan Ali</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://presidencyuniversity.in/"> <b>Presidency University</b>, Bangalore</a>.
+    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
+  <br>
+  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<p align="center">
-  💡 My diverse portfolio includes projects in App development, Metaverse, AR/VR, Design, and Development. I am a quick learner and adapt easily to new environments, making me a valuable asset to any team. I am also a highly motivated and results-oriented individual with a strong desire to make a positive impact on the world.
-</p>
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
+- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
+- ⚡ Fun fact: I love Sports, especially Cricket.
+<br>
 
 
 ---
