@@ -15,9 +15,8 @@
 
 - 🧞 I'm a Tech entrepreneur and AI Engineer.
 - 🔭 I’m currently working on AI Projects, Web development.
-- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developement projects.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- ⚡ Fun fact: I love Sports, especially Cricket.
+- 👯 I’m looking to collaborate with Ai and Web Developement projects.
+- 💡 Building effective product is always been a goal to me.
 <br>
 
 
