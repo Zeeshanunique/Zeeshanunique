@@ -1,109 +1,42 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeeshan Ali</h1>
-<p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+# 👋 Hi, I'm Zeeshan Ali
 
-<p align="center">
-  <em>
-    This is me <b>Zeeshan Ali</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://presidencyuniversity.in/"> <b>Presidency University</b>, Bangalore</a>.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
-  <br>
-  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
-</p>
+## 🚀 About Me
 
-<h3>Little facts about me 🧑</h3>
+- 🎓 Final year B.Tech student in Computer Science (AI & ML) at [Presidency University, Bangalore](https://presidencyuniversity.in/)
+- 🧠 Passionate about Artificial Intelligence, Large Language Models, and Full-Stack Development
+- 👨‍💼 Founder of [Quanta](https://quanta.co.in/), an AI & Web Tech startup incubated under Presidency Launchpad
+- 💼 Building AI Agents, LegalTech & HealthTech products, and full-stack solutions for startups
+- 🌐 Actively seeking opportunities in AI Engineering, Research, and Internships
 
-- 🧞 I'm a Tech entrepreneur and AI Engineer.
-- 🔭 I’m currently working on AI Projects, Web development.
-- 👯 I’m looking to collaborate with Ai and Web Developement projects.
-- 💡 Building effective product is always been a goal to me.
-<br>
+## 💼 Work & Projects
 
+- 🧠 AI-Powered Voice Assistant using LLaVA, Whisper, Gradio, and gTTS
+- ⚖️ Legal AI tool for understanding FIRs & legal documents
+- 🩺 MediBuddy – Medical AI for diagnosis from symptoms and reports
+- ☁️ Kubernetes Migration App with Velero, EKS, Node.js, and YAML sanitization
+- 🧪 Quantum-Enhanced Disease Diagnosis using QML + LLMs (Hackathon Finalist)
 
----
+## 🧰 Tech Stack
 
-<details open ="">
-<summary>
-  ✨ Tech stack currently using:
-</summary>
-   <br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
- <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-  
-</details>
-<br>
+- 🔤 LLMs: LLaVA, Mistral, OpenAI GPT, Gemini
+- 🧠 AI Tools: LangChain, Transformers, HuggingFace, Vector DBs
+- 🌐 Web: Next.js, React, Flask, MongoDB, Firebase Auth
+- ☁️ Cloud & DevOps: AWS (EKS, S3), Docker, Kubernetes, Vercel, GitHub Actions
+- 🧪 Quantum: PennyLane, Qiskit (exploring Quantum LLMs)
 
-<details open="">
-<summary>
-  🌱 Looking forward to learn:
-</summary>
-   <br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
+## 🌱 Currently Learning
+
+- Fine-tuning LLMs for specific domains
+- Quantum AI and Quantum-enhanced applications
+- AI agents with memory, tools, and voice integration
+
+## 📫 Connect With Me
+
+- 📧 Email: zeeshanaliisworking@gmail.com
+- 🌐 Portfolio: [zeeshanali.vercel.app](https://zeeshanali.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/zeeshan-ali-777](https://www.linkedin.com/in/zeeshan-ali-777)
+- 💻 GitHub: [github.com/zeeshanalix](https://github.com/zeeshanalix)
 
 ---
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/Zeeshanunique">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Zeeshanunique&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/Zeeshanunique">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanunique&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshanunique&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Ratheshan03" /></p>
-</details>
-
----
-
-<h4> Connect with me🤝: <h4>
-  </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
-   <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="mailto:lionratheshan@gmail.com">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/Ratheshan_03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/ratheshan_03/">
-    <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/profile.php?id=100003874786181">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/Ratheshan03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  
-<p align="right" > Created with 🖤 by <a href="https://github.com/Zeeshanunique">Zeeshan Aii</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+⭐️ “Building the future, one AI Agent at a time.”
