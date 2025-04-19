@@ -1,157 +1,98 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeeshan Ali</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Zeeshan Ali</h1>
 <p align="center">
-  <a href="https://github.com/zeeshanunique/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%7C+Tech+Entrepreneur+%7C+Full+Stack+Developer;Founder+of+Quanta+%7C+Incubated+@+Presidency+Launchpad;Building+with+LLMs+%7C+Quantum+AI;Always+Learning+%7C+Collaborating&center=true&width=500&height=50">
+  <a href="https://github.com/Zeeshanunique/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%7C+Tech+Entrepreneur+%7C+Full+Stack+Developer;AI+Agents+%7C+MCP+%28Model+Context+Protocol%29+%7C+Cloud+%26+DevOps;Founder+of+Quanta+%7C+Always+Learning+%7C+Collaborating&center=true&width=500&height=50">
   </a>
 </p>
 
 <p align="center">
   <em>
-    Final‑year B.Tech in Computer Science (AI & ML) at <a href="https://presidencyuniversity.in/"><b>Presidency University, Bangalore</b></a><br>
-    Founder &amp; AI Engineer @ <a href="https://quanta.co.in/"><b>Quanta</b></a> — building AI Agents, LegalTech &amp; HealthTech solutions<br>
-    “Building the future, one AI Agent at a time.”
+    Final‑year B.Tech student in Computer Science (AI & ML) at <a href="https://presidencyuniversity.in/"><b>Presidency University, Bangalore</b></a><br>
+    Founder &amp; AI Engineer @ <a href="https://quanta.co.in/"><b>Quanta</b></a> — crafting AI agents, Model Context Protocol systems, Cloud &amp; DevOps pipelines<br>
+    “Building the future, one intelligent system at a time.”  
   </em>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔎 About Me
 
-**Languages & Frameworks:** Python · TypeScript · JavaScript · React · Next.js · Flask · Node.js · Docker · Kubernetes  
-**AI & LLMs:** OpenAI GPT · LLaVA · Mistral · Whisper · LangChain · HuggingFace · PennyLane · Qiskit  
-**Cloud & DevOps:** Firebase Auth · MongoDB · AWS (EKS, S3) · Vercel · GitHub Actions · Heroku  
+I’m an AI Engineer and entrepreneur driven by a passion for building real‑world, production‑ready intelligent systems. Over the last few years I’ve:
+
+- **Designed & Deployed AI Agents**  
+  • Conversational assistants (LLaVA + Whisper + Gradio + gTTS)  
+  • Legal‑tech bots for parsing FIRs & contracts  
+  • Health‑tech advisors (“MediBuddy”) that analyze symptoms & reports  
+
+- **Authored/Implemented Model Context Protocol (MCP)**  
+  • Defined standardized context‑passing protocol for LLM integrations  
+  • Built & maintained both **mcp-host-node-simple** (TS) and **mcp-client** (Py) SDKs  
+
+- **Engineered Cloud & DevOps Solutions**  
+  • Kubernetes migrations with Amazon EKS + Velero + Node.js YAML‑sanitizer  
+  • CI/CD via GitHub Actions, containerized services on AWS & Vercel  
+  • Firebase Auth & MongoDB role‑based SaaS backends  
+
+- **Full‑Stack Application Development**  
+  • React / Next.js front‑ends with Tailwind CSS & Redux  
+  • Flask / Express.js APIs, MongoDB Atlas & Google Drive storage  
+  • Real‑time dashboards, secure file workflows & notification systems  
+
+- **Explored Advanced Paradigms**  
+  • Generative AI (Mistral, GPT‑4, Gemini) for content & code generation  
+  • Quantum‑Enhanced AI prototypes (PennyLane, Qiskit) for next‑gen disease diagnosis  
+  • Agent‑based crypto trading simulations & blockchain‑based dashboards  
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-> **2025**  
+| Domain            | Tools & Frameworks                                          |
+|-------------------|-------------------------------------------------------------|
+| **Languages**     | Python · TypeScript · JavaScript · Java                     |
+| **Front‑End**     | React · Next.js · Tailwind CSS · Redux                      |
+| **Back‑End**      | Flask · Express.js · Node.js · FastAPI                      |
+| **AI & LLMs**     | OpenAI GPT · LLaVA · Mistral · Whisper · LangChain · HuggingFace |
+| **MCP**           | mcp-host-node-simple · mcp-client · open-mcp-client         |
+| **DevOps & Cloud**| AWS (EKS, S3) · Docker · Kubernetes · Vercel · Heroku       |
+| **Auth & DB**     | Firebase Auth · MongoDB Atlas · PostgreSQL                  |
+| **Storage & APIs**| Google Drive API · Stripe · SendGrid                        |
+| **Quantum & ML**  | PennyLane · Qiskit · scikit‑learn · TensorFlow · PyTorch     |
+
+---
+
+## 🚀 Selected Projects
+
+> **2025 Highlights**  
 >  
 > - **[mcp-host-node-simple](https://github.com/Zeeshanunique/mcp-host-node-simple)**  
->   Forked from _ragingwind/mcp-host-node-simple_. A minimal demo for hosting MCP apps.  
->   **TypeScript** · _Updated Apr 16, 2025_ :contentReference[oaicite:0]{index=0}  
->  
+>   Minimal TypeScript demo host for implementing Model Context Protocol.  
 > - **[cluster-migrate-magic](https://github.com/Zeeshanunique/cluster-migrate-magic)**  
->   A CLI for migrating EKS clusters seamlessly.  
->   **TypeScript** · _Updated Apr 16, 2025_ :contentReference[oaicite:1]{index=1}  
->  
+>   CLI for seamless Amazon EKS cluster migrations (Velero + YAML cleaning).  
 > - **[remedy-ai-telehealth-hub](https://github.com/Zeeshanunique/remedy-ai-telehealth-hub)**  
->   Telehealth coordination platform powered by AI.  
->   **TypeScript** · _Updated Apr 15, 2025_ :contentReference[oaicite:2]{index=2}  
->  
+>   End‑to‑end telehealth orchestration platform with AI‑driven triage.  
 > - **[ledger-flow-finance](https://github.com/Zeeshanunique/ledger-flow-finance)**  
->   A flow-based finance dashboard for on‑chain ledgers.  
->   **TypeScript** · _Updated Apr 13, 2025_ :contentReference[oaicite:3]{index=3}  
->  
+>   Blockchain‑powered finance dashboard with flow‑based UI.  
 > - **[weather_prediction](https://github.com/Zeeshanunique/weather_prediction)**  
->   ML model forecasting weather patterns.  
->   **Python** · _Updated Apr 12, 2025_ :contentReference[oaicite:4]{index=4}  
+>   ML pipeline forecasting multi‑region weather patterns.  
 >  
-> - **[demo_crew](https://github.com/Zeeshanunique/demo_crew)**  
->   Demo management CLI for event crews.  
->   **Python** · _Updated Apr 8, 2025_ :contentReference[oaicite:5]{index=5}  
+> **2024 & Earlier**  
 >  
-> - **[VehicleSecurityIntelligence](https://github.com/Zeeshanunique/VehicleSecurityIntelligence)**  
->   Real‑time vehicle threat detection using ML.  
->   **TypeScript** · _Updated Apr 6, 2025_ :contentReference[oaicite:6]{index=6}  
->  
-> - **[zen-move-mind](https://github.com/Zeeshanunique/zen-move-mind)**  
->   Mindfulness & movement coach web app.  
->   **TypeScript** · _Updated Apr 5, 2025_ :contentReference[oaicite:7]{index=7}  
->  
-> - **[tap-track-time-wise](https://github.com/Zeeshanunique/tap-track-time-wise)**  
->   Time tracking SaaS with analytics.  
->   **TypeScript** · _Updated Apr 4, 2025_ :contentReference[oaicite:8]{index=8}  
->  
-> - **[mcp-client](https://github.com/Zeeshanunique/mcp-client)**  
->   Python client for MCP Host integration. ★2  
->   **Python** · _Updated Apr 2, 2025_ :contentReference[oaicite:9]{index=9}  
->  
-> - **[open-mcp-client](https://github.com/Zeeshanunique/open-mcp-client)**  
->   Forked from _CopilotKit/open-mcp-client_. A TypeScript SDK for MCP.  
->   **TypeScript** · _Updated Mar 31, 2025_ :contentReference[oaicite:10]{index=10}  
->  
-> - **[Qirtaas](https://github.com/Zeeshanunique/Qirtaas)**  
->   Automated questionnaire builder for SMEs.  
->   **TypeScript** · _Updated Mar 30, 2025_ :contentReference[oaicite:11]{index=11}  
->  
-> - **[cyberloophole-inspectify](https://github.com/Zeeshanunique/cyberloophole-inspectify)**  
->   Security audit automation tool.  
->   **TypeScript** · _Updated Mar 27, 2025_ :contentReference[oaicite:12]{index=12}  
->  
-> - **[kube_mern](https://github.com/Zeeshanunique/kube_mern)**  
->   MERN boilerplate deployed on Kubernetes.  
->   *(no primary language)* · _Updated Mar 27, 2025_ :contentReference[oaicite:13]{index=13}  
->  
-> - **[almost-md](https://github.com/Zeeshanunique/almost-md)**  
->   Forked from _KoushikJit/almost-md_. Markdown preprocessing toolkit. ★1  
->   **TypeScript** · _Updated Mar 22, 2025_ :contentReference[oaicite:14]{index=14}  
->  
-> - **[farmer-marketplace](https://github.com/Zeeshanunique/farmer-marketplace)**  
->   Direct‑to‑consumer contract farming platform.  
->   **TypeScript** · _Updated Mar 20, 2025_ :contentReference[oaicite:15]{index=15}  
->  
-> - **[government_sample](https://github.com/Zeeshanunique/government_sample)**  
->   Next.js + shadcn/ui demo for govt portals.  
->   **TypeScript** · _Updated Mar 20, 2025_ :contentReference[oaicite:16]{index=16}  
->  
-> - **[modelcontextprotocol](https://github.com/Zeeshanunique/modelcontextprotocol)**  
->   JavaScript protocol for ML context passing.  
->   **JavaScript** · _Updated Mar 16, 2025_ :contentReference[oaicite:17]{index=17}  
->  
-> - **[figma_plugin](https://github.com/Zeeshanunique/figma_plugin)**  
->   Figma automation plugin.  
->   **JavaScript** · _Updated Mar 15, 2025_ :contentReference[oaicite:18]{index=18}  
->  
-> - **[arbaz](https://github.com/Zeeshanunique/arbaz)**  
->   Generated by Claude.  
->   *(no primary language)* · _Updated Mar 15, 2025_ :contentReference[oaicite:19]{index=19}  
->  
-> - **[positivus-landing-page](https://github.com/Zeeshanunique/positivus-landing-page)**  
->   React landing page from Figma design.  
->   **JavaScript** · _Updated Mar 13, 2025_ :contentReference[oaicite:20]{index=20}  
->  
-> - **[figma-mcp-server](https://github.com/Zeeshanunique/figma-mcp-server)**  
->   Forked from _karthiks3000/figma-mcp-server_. Claude MCP backend.  
->   **TypeScript** · _Updated Mar 12, 2025_ :contentReference[oaicite:21]{index=21}  
->  
-> - **[cryptocurrency](https://github.com/Zeeshanunique/cryptocurrency)**  
->   Bitcoin price & mining dynamics analysis.  
->   **Python** · _Updated Jan 22, 2025_ :contentReference[oaicite:22]{index=22}  
->  
-> - **[Crypto_trading1](https://github.com/Zeeshanunique/Crypto_trading1)**  
->   Agent‑based crypto trading simulations.  
->   *(no primary language)* · _Updated Jan 9, 2025_ :contentReference[oaicite:23]{index=23}  
->  
-> - **[quantech](https://github.com/Zeeshanunique/quantech)**  
->   Quanta’s internal toolset (repos & scripts).  
->   **TypeScript** · _Updated Dec 29, 2024_ :contentReference[oaicite:24]{index=24}  
->  
-> - **[travel_app-1-](https://github.com/Zeeshanunique/travel_app-1-)**  
->   Trip planner MVP.  
->   **JavaScript** · _Updated Dec 18, 2024_ :contentReference[oaicite:25]{index=25}  
->  
-> - **[emergencycare](https://github.com/Zeeshanunique/emergencycare)**  
->   Emergency response dashboard.  
->   **TypeScript** · _Updated Dec 17, 2024_ :contentReference[oaicite:26]{index=26}  
->  
-> **…and 64 more spanning AI, Web, Quantum, DevOps, Mobile & more.**  
-
-> **2024 & earlier**  
->  
-> *(Full list available on my [GitHub Repositories](https://github.com/Zeeshanunique?tab=repositories).)*  
+> 60+ repos spanning AI Agents, HealthTech, LegalTech, Data Annotation, Quantum AI, Full‑Stack MVPs, Blockchain analytics, and more.  
+> *(See all → [github.com/Zeeshanunique?tab=repositories](https://github.com/Zeeshanunique?tab=repositories))*  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Fine‑tuning LLMs for domain‑specific apps  
-- Quantum algorithms & Quantum‑enhanced LLMs  
-- AI agents with memory, tool‑use & voice interfaces  
+- **LLM Fine‑Tuning & Retrieval Augmented Generation**  
+- **Quantum Algorithms for Medical Imaging & Genomics**  
+- **Agent Architectures with Long‑Term Memory & Tooling**  
+- **Edge AI Deployments & Federated Learning**  
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zeeshan-ali-101039176/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px"/></a>
