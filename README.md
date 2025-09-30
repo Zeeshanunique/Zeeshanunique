@@ -8,7 +8,6 @@
 
 <p align="center">
   <em>
-    Final-year B.Tech (AI & ML) @ <a href="https://presidencyuniversity.in/"><b>Presidency University, Bangalore</b></a><br>
     Founder & AI Engineer @ <a href="https://quanta.co.in/"><b>Quanta</b></a><br>
     <b>“Building the future, one intelligent system at a time.”</b>
   </em>
