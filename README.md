@@ -1,75 +1,68 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Zeeshan Ali</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Zeeshan+Ali;Agentic+AI+Engineer" alt="Zeeshan Ali" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/Zeeshanunique/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer+%7C+Tech+Entrepreneur+%7C+Full+Stack+Developer;AI+Agents+%7C+MCP+%28Model+Context+Protocol%29+%7C+Cloud+%26+DevOps;Founder+of+Quanta+%7C+Always+Learning+%7C+Collaborating&center=true&width=500&height=50">
-  </a>
+  <b>AI Engineer @ Visionet Systems</b> &nbsp;·&nbsp; Ex Co-Founder @ Quanta &nbsp;·&nbsp; Bengaluru, India
 </p>
 
 <p align="center">
-  <em>
-    Founder & AI Engineer @ <a href="https://quanta.co.in/"><b>Quanta</b></a><br>
-    <b>“Building the future, one intelligent system at a time.”</b>
-  </em>
+  <a href="https://linkedin.com/in/zeeshan-ali01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:zeeshanunique2619@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/Zeeshanunique"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🔎 About Me
+## About
 
-I’m an **AI Engineer & Entrepreneur** passionate about designing intelligent, production-ready systems. My journey blends AI agents, full-stack development, and cloud/DevOps solutions.  
+I build **production-grade agentic AI systems** — autonomous agents that reason, plan, use tools, and recover from failure at enterprise scale.
 
-- 🚀 **AI Agents & LLM Apps** — conversational assistants, legal-tech bots, and health-tech advisors.  
-- 🔗 **Model Context Protocol (MCP)** — built SDKs & implementations for seamless LLM integrations.  
-- ☁️ **Cloud & DevOps** — Kubernetes migrations (EKS + Velero), CI/CD pipelines, and secure SaaS infra.  
-- 💻 **Full-Stack Development** — React/Next.js, Flask/Express.js, MongoDB, Firebase, and real-time dashboards.  
-- ⚡ **Explorations** — Generative AI, Quantum AI prototypes, and blockchain-based agent systems.  
+Currently at **Visionet Systems**, I orchestrate 50+ concurrent autonomous agents via a production MCP client, cutting end-to-end workflow latency by 35%. Before that, I co-founded **Quanta** and shipped 6 AI products across healthcare and enterprise.
 
----
-
-## 🛠️ Tech Stack
-
-| **Domain**        | **Tools & Frameworks** |
-|-------------------|-------------------------|
-| Languages         | Python · TypeScript · JavaScript · Java |
-| Front-End         | React · Next.js · Tailwind CSS · Redux |
-| Back-End          | Flask · Express.js · Node.js · FastAPI |
-| AI & LLMs         | OpenAI · LLaVA · Mistral · Whisper · LangChain · HuggingFace |
-| MCP               | mcp-host-node-simple · mcp-client · open-mcp-client |
-| DevOps & Cloud    | AWS (EKS, S3) · Docker · Kubernetes · Vercel · Heroku |
-| Auth & DB         | Firebase Auth · MongoDB Atlas · PostgreSQL |
-| Storage & APIs    | Google Drive API · Stripe · SendGrid |
-| Quantum & ML      | PennyLane · Qiskit · scikit-learn · TensorFlow · PyTorch |
+- 🤖 **Agentic Systems** — multi-agent orchestration, MCP, A2A protocols, tool calling, adaptive planning
+- 🧠 **RAG & Memory** — layered memory architectures, context compression, vector retrieval pipelines
+- 🔍 **LLMOps & Observability** — LangSmith, Langfuse, Prometheus, Grafana, Ragas, Azure Purview
+- 🔐 **AI Governance** — RBAC, audit logging, safety guardrails, human-in-the-loop systems
+- ☁️ **Cloud & Infra** — AWS, Azure, GCP, Docker, CI/CD, MLflow
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-- **[mcp-host-node-simple](https://github.com/Zeeshanunique/mcp-host-node-simple)** — Minimal TypeScript demo host for MCP.  
-- **[cluster-migrate-magic](https://github.com/Zeeshanunique/cluster-migrate-magic)** — CLI for seamless Amazon EKS migrations.  
-- **[remedy-ai-telehealth-hub](https://github.com/Zeeshanunique/remedy-ai-telehealth-hub)** — AI-driven telehealth orchestration.  
-- **[ledger-flow-finance](https://github.com/Zeeshanunique/ledger-flow-finance)** — Blockchain-powered finance dashboard.  
-- **[weather_prediction](https://github.com/Zeeshanunique/weather_prediction)** — ML pipeline for weather forecasting.  
-
-> 💡 60+ more repos spanning AI Agents, HealthTech, LegalTech, Quantum AI, and Full-Stack MVPs → [Explore here](https://github.com/Zeeshanunique?tab=repositories)
-
----
-
-## 🌱 Currently Exploring
-
-- LLM fine-tuning & RAG  
-- Quantum algorithms for medical AI  
-- Agent architectures with memory & tooling  
-- Edge AI & federated learning  
+| Domain | Tools |
+|---|---|
+| **Agentic Frameworks** | LangGraph · Strands · ADK · Azure Foundry · Bedrock · Vertex AI · MCP · A2A |
+| **LLM & Reasoning** | LangChain · LlamaIndex · OpenAI · Anthropic · Gemini · HuggingFace · Fine-tuning |
+| **Retrieval & Memory** | Pinecone · Weaviate · pgvector · Redis · Context Compression |
+| **Observability** | LangSmith · Langfuse · Prometheus · Grafana · Ragas · Azure Purview |
+| **Infra & MLOps** | Docker · MLflow · GitHub Actions · AWS / Azure / GCP · CI/CD |
+| **Languages** | Python · TypeScript · JavaScript · Node.js |
 
 ---
 
-## 🤝 Let’s Connect
+## Featured Projects
+
+**[OpenDesk](https://github.com/Zeeshanunique)** — Governed enterprise agentic automation platform. Multi-agent workflows across HR, IT, and operations with RBAC, audit logging, and safety guardrails. *(Pre-production)*
+
+**[AgentVerse](https://github.com/Zeeshanunique)** — Extensible multi-agent orchestration framework supporting 20+ specialized agents with dynamic tool discovery and layered memory. Achieved 28% latency reduction via retrieval caching and context compression.
+
+**[Zeeno](https://github.com/Zeeshanunique)** — AI-driven healthcare intelligence platform. Disease detection, clinical decision support, medical report analysis, and patient journey automation. 🏆 *Winner — VisionTech Fest National Hackathon 2024*
+
+---
+
+## Currently Building
+
+- Production agentic platforms with enterprise governance and reliability
+- Multi-agent reasoning systems with self-correction and failure recovery
+- Scalable RAG pipelines with adaptive memory and context management
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zeeshan-ali-101039176/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zeeshanunique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
   &nbsp;
-  <a href="mailto:zeeshanaliisworking@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px"/></a>
-  &nbsp;
-  <a href="https://github.com/Zeeshanunique"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30px"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshanunique&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
