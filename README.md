@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>AI Engineer @ Visionet Systems</b> &nbsp;·&nbsp; Ex Co-Founder @ Quanta &nbsp;·&nbsp; Bengaluru, India
+  <b>AI Engineer @ Visionet Systems</b> &nbsp;·&nbsp; Co-Founder @ Quanta &nbsp;·&nbsp; Bengaluru, India
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 I build **production-grade agentic AI systems** — autonomous agents that reason, plan, use tools, and recover from failure at enterprise scale.
 
 - **Now:** at **Visionet Systems**, orchestrating **50+ concurrent autonomous agents** through a production MCP client — **35% lower** end-to-end workflow latency.
-- **Before:** co-founded **Quanta** and shipped **6 AI products** across healthcare and enterprise.
+- **Also:** co-founder of **Quanta**, where we've shipped **6 AI products** across healthcare and enterprise.
 - **Recognition:** 🏆 Winner, VisionTech Fest National Hackathon 2024 (Zeeno).
 
 ### What I work on
